@@ -10,7 +10,7 @@ Examine meal habits' impact on BMI and program effectiveness.
 - Subsetting (Identifies high-risk students; filters BMI >= 23)
 - Paired t-tests (Compares pre/post consumption; program’s effect)
 - Wordcloud (Displays snack frequency patterns)
-# Outpu
+# Output
 1. Correlation coefficients
 ![1s](images/1s.png)
 2. BMI boxplots
